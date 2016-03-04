@@ -2,21 +2,18 @@
     <channel>
         <title><![CDATA[#NEULAND]]></title>
         <description><![CDATA[#NEULAND]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neuland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 08:58:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 09:09:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neuland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[
 #NEULAND ]]></title>
-            <description><![CDATA[<article><h1>
-#NEULAND </h1><p>Bürger, Staat und Netz
-
-Der digitale Wandel beschleunigt uns alle rasant, bringt Umbruch in alle Business-Branchen und jeden Bereich der Gesellschaft. Demokratie aber braucht Zeit, Staat und Politik stellen sich fundamentale Fragen während online neue Kräfte neue Macht entwickeln.
-Die EB Zürich bringt internationale Pioniere zusammen mit Denkern und Machern, Programmierern und Politikern von hier und erforscht das #Neuland, auf der Spur neuer Bürgerbewegungen, Silicon Valley Staatsstartups und der neu programmierten Schweiz von morgen. </p></article>]]></description>
-            <link>undefinedneuland/index.html</link>
+            <description><![CDATA[<h1>
+#NEULAND </h1>]]></description>
+            <link>https://thegrid.ai/neuland/neuland/index.html</link>
             <guid isPermaLink="false">3fccf99c-9575-4b2e-961c-3647f0113141</guid>
-            <pubDate>Fri, 04 Mar 2016 08:57:53 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 09:08:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
