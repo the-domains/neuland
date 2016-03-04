@@ -2,6 +2,7 @@ name: neuland
 favicon: null
 layout_spectrum: 0.19692
 typography_spectrum: 0.98582
+title: '#NEULAND'
 cta:
   domain: null
   bucket: null
